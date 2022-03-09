@@ -3,5 +3,14 @@
         "name": "[-] Website",
         "logo": "/assets/img/avatar.jpg",
         "text": "Mise en place d'un nouvel avatar de base"
+    },
+    {
+        "name": "[-] Website",
+        "logo": "/assets/img/skull.png",
+        "text": "Patch des profils des utilsateurs"
+    }, {
+        "name": "[-] Website",
+        "logo": "/assets/img/skull.png",
+        "text": "Base du site"
     }
 ]
