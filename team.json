@@ -1,0 +1,31 @@
+[
+    {
+        "username": "@Alice",
+        "grade": "Owner 🎉",
+        "social": [
+            {
+                "name": "@Github",
+                "link": "https://github.com/Sn0wAlice"
+            },
+            {
+                "name": "@Webite",
+                "link": "https://live-hack.org/"
+            }
+        ],
+        "pp": "/assets/img/staff/alice.jpg",
+        "about": "Si la porte est fermée, pirate la fenêtre 💊"
+    },
+    {
+        "username": "@Ferweadi",
+        "grade": "Chall designer 💻",
+        "social": [
+            {
+                "name": "@Github",
+                "link": "https://github.com/Ferweadi"
+            }
+        ],
+        "pp": "/assets/img/staff/ferweadi.png",
+        "about": "~"
+    }
+
+]
