@@ -1,6 +1,10 @@
 [
     {
         "name": "[-] Website",
+        "logo": "/assets/img/skull.png",
+        "text": "Mise en place de la gestion de challs"
+    }, {
+        "name": "[-] Website",
         "logo": "/assets/img/avatar.jpg",
         "text": "Mise en place d'un nouvel avatar de base"
     },
