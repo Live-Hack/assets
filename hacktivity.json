@@ -1,5 +1,10 @@
 [
     {
+        "name": "[-] Beta testing",
+        "logo": "/assets/img/skull.png",
+        "text": "Mise en place des beta test sur le site"
+    },
+    {
         "name": "[-] Website",
         "logo": "/assets/img/skull.png",
         "text": "Mise en place de la gestion de challs"
