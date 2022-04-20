@@ -1,9 +1,16 @@
 [
     {
+        "username": "Alice Sn0w",
+        "work": "Owner",
+        "avatar": "https://avatars.githubusercontent.com/u/38856824?v=4",
+        "background": "https://cloud.live-hack.org/contrib/alice/banner.gif",
+        "link": "https://github.com/Sn0wAlice"
+    },
+    {
         "username": "Aptura",
         "work": "beta tester",
         "avatar": "https://avatars.githubusercontent.com/u/31808221?v=4",
-        "background": "/assets/img/blog/livehack.gif",
+        "background": "https://cloud.live-hack.org/contrib/aptura/banner.jpg",
         "link": "https://github.com/Aptura"
     },
     {
