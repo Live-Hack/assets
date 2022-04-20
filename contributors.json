@@ -12,5 +12,12 @@
         "avatar": "https://avatars.githubusercontent.com/u/88039645?v=4",
         "background": "https://cloud.live-hack.org/contrib/heca/banner.png",
         "link": "https://hecatonchire.org/"
+    },
+    {
+        "username": "Ferweadi",
+        "work": "Chall conceptor",
+        "avatar": "https://cloud.live-hack.org/contrib/ferwi/logo.png",
+        "background": "https://cloud.live-hack.org/contrib/ferwi/banner.png",
+        "link": "https://ferwictf.live-hack.org/"
     }
 ]
