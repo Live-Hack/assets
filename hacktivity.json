@@ -1,25 +1,39 @@
-[
+[{
+        "name": "[-] User Roles",
+        "text": "Ajout de rôles à un utilisateur, ce qui permet une identification plus précise de leur fonctions."
+    },
+    {
+        "name": "[-] Chall GROUP",
+        "text": "Mise en place des Chall group (beta)"
+    },
+    {
+        "name": "[-] Update",
+        "text": "Mise en a jour des fonctionnalités & amélioration des performances"
+    },
+    {
+        "name": "[-] Amelia",
+        "text": "Intégration de Amelia, une application de gestion pour les entreprises"
+    },
+    {
+        "name": "[-] Pach",
+        "text": "Amélioration de la plateforme"
+    },
     {
         "name": "[-] Beta testing",
-        "logo": "/assets/img/skull.png",
         "text": "Mise en place des beta test sur le site"
     },
     {
         "name": "[-] Website",
-        "logo": "/assets/img/skull.png",
         "text": "Mise en place de la gestion de challs"
     }, {
         "name": "[-] Website",
-        "logo": "/assets/img/avatar.jpg",
         "text": "Mise en place d'un nouvel avatar de base"
     },
     {
         "name": "[-] Website",
-        "logo": "/assets/img/skull.png",
         "text": "Patch des profils des utilsateurs"
     }, {
         "name": "[-] Website",
-        "logo": "/assets/img/skull.png",
         "text": "Base du site"
     }
 ]
