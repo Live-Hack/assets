@@ -9,11 +9,23 @@
             },
             {
                 "name": "@Webite",
-                "link": "https://live-hack.org/"
+                "link": "https://www.live-hack.org/"
             }
         ],
         "pp": "/assets/img/staff/alice.jpg",
         "about": "Si la porte est fermée, pirate la fenêtre 💊"
+    },
+    {
+        "username": "@valdemort74",
+        "grade": "Website contributor 🎉",
+        "social": [
+            {
+                "name": "@Github",
+                "link": "https://github.com/valdemort74"
+            }
+        ],
+        "pp": "/assets/img/staff/ferweadi.png",
+        "about": "~"
     },
     {
         "username": "@Ferweadi",
