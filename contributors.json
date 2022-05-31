@@ -26,5 +26,12 @@
         "avatar": "https://cloud.live-hack.org/contrib/ferwi/logo.png",
         "background": "https://cloud.live-hack.org/contrib/ferwi/banner.png",
         "link": "https://ferwictf.live-hack.org/"
+    },
+    {
+        "username": "valdemort74",
+        "work": "Chall conceptor & Beta tester",
+        "avatar": "https://upload.live-hack.org/user/pp/valdemort74.jpg",
+        "background": "https://cloud.live-hack.org/contrib/val/banner.jpg",
+        "link": "https://www.live-hack.org/u/valdemort74"
     }
 ]
